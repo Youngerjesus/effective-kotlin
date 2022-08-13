@@ -13,3 +13,5 @@
 - [item 47: 인라인 클래스의 사용을 고려하라](documents/item47/README.md)
 
 - [item 48: 더이상 사용하지 않는 객체의 레퍼런스를 제거하라](documents/item48/README.md)
+
+- [item 49: 하나 이상의 처리 단계를 가진 경우에는 시퀀스를 사용하라](documents/item49/README.md)
