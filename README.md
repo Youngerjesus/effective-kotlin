@@ -17,3 +17,5 @@
 - [item 49: 하나 이상의 처리 단계를 가진 경우에는 시퀀스를 사용하라](documents/item49/README.md)
 
 - [item 50: 컬렉션 처리 단계 수를 제한하라](documents/item50/README.md)
+
+- [item 51: 성능이 중요한 부분에는 기본 자료형 배열을 사용하라](documents/item51/README.md)
