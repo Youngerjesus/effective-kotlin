@@ -19,3 +19,5 @@
 - [item 50: 컬렉션 처리 단계 수를 제한하라](documents/item50/README.md)
 
 - [item 51: 성능이 중요한 부분에는 기본 자료형 배열을 사용하라](documents/item51/README.md)
+
+- [item 52: mutable 컬렉션 사용을 고려하라](documents/item52/README.md)
